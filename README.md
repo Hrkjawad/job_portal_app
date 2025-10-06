@@ -1,6 +1,6 @@
 # Job Portal App
 
-A Flutter job portal app built using **SQLite** and **Riverpod**, following the **MVVM** architecture.  
+A Flutter Responsive job portal app built using **SQLite** and **Riverpod**, following the **MVVM** architecture.  
 It allows user authentication, fetching jobs from an API, saving applied jobs locally, and managing user data.
 
 ---
