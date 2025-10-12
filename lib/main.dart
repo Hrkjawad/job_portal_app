@@ -4,13 +4,13 @@ import 'package:job_portal/presentation/auth_screen/signup_screen.dart';
 import 'package:job_portal/utils/constents.dart';
 import 'utils/responsive_size.dart';
 
-Future<void> main() async {
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  runApp(const NewsApp());
+  runApp(const JobPortalApp());
 }
 
-class NewsApp extends StatelessWidget {
-  const NewsApp({super.key});
+class JobPortalApp extends StatelessWidget {
+  const JobPortalApp({super.key});
 
   @override
   Widget build(BuildContext context) {
